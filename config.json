@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorcpdate",
+        "uuid": 720356,
+        "checksum": "akpolq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
